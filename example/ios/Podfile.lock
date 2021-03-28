@@ -1,0 +1,22 @@
+PODS:
+  - event_channel_tutorial (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - event_channel_tutorial (from `.symlinks/plugins/event_channel_tutorial/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  event_channel_tutorial:
+    :path: ".symlinks/plugins/event_channel_tutorial/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  event_channel_tutorial: 4dc945a6352f620e47018b3a207c60a7f4eb4d27
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.1
